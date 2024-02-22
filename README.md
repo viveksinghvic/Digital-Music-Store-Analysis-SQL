@@ -1,12 +1,16 @@
 # SQL_Project_Music_Store_Analysis
-SQL project to analyze online music store data
+# Overview 
+This project involved conducting an in-depth analysis of a music playlist database to extract valuable insights. 
+Utilizing Postgres SQL (Pgadmin4), the dataset was examined and queried effectively to address key questions and support the digital music store in understanding its business growth.
 
-This project is for beginners and will teach you how to analyze the music playlist database. You can examine the dataset with SQL and help the store understand its business growth by answering simple questions.
+# Key Features
+Data Analysis: Conducted thorough analysis of the music playlist database to derive insights.
+Database Management: Utilized Postgres SQL (Pgadmin4) for effective management and querying of the dataset.
+Business Insights: Supported the digital music store by addressing key business questions through data analysis.
 
-
-## Database and Tools
-* Postgre SQL
-* PgAdmin4
+# Tools Used
+Postgres SQL (Pgadmin4): Leveraged for database management and querying.
+SQL Queries: Employed SQL queries for data analysis and extraction of insights.
 
 Schema- Music Store Database  
 ![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
